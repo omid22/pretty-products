@@ -2,7 +2,7 @@ html {
   box-sizing: border-box;
   font-family: Karma, serif;
   line-height: 1.5;
-  background-color: #f80;
+  background-color: #fff;
 }
 
 *, *::before, *::after {
@@ -22,7 +22,7 @@ h2 {
   font-size: 2rem;
   color: #6f00e7;
   text-align: center;
-  margin: 0;
+  margin: 1.5rem 1.5rem 0;
 }
 
 ol {
@@ -50,7 +50,7 @@ ol > li > img {
 p {
   text-align: center;
   font-size: 1.4rem;
-  margin: 0 0 auto;
+  margin: 0 1.5em auto;
 }
 
 span {
@@ -64,7 +64,7 @@ ul {
   justify-content: space-between;
   padding: 0;
   align-items: center;
-  margin: 25em;
+  margin: 1.5rem;
 }
 
 ul li:first-child a {
